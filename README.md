@@ -10,6 +10,6 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on a data science research team.
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.linkedin.com/in/gabriel-d%C3%ADaz-obando/
 
 
