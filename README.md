@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on an accounting app.
 - 🌱 I’m currently learning ML with python.
-- 👯 I’m looking to collaborate on data science research team.
+- 👯 I’m looking to collaborate on a data science research team.
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
