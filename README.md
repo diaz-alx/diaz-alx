@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Gabriel Díaz]! 👋
 
 ## About Me
 I am a passionate and dedicated final year student pursuing a Bachelor's degree in Informations System Engineering. With a strong foundation in both software and hardware aspects of systems, I am enthusiastic about creating innovative solutions to real-world problems.
@@ -35,7 +35,7 @@ I am a passionate and dedicated final year student pursuing a Bachelor's degree 
 - Internship at [Company/Organization] as a [Position/Role] (Duration): Brief description of your responsibilities and achievements during the internship.
 
 ## 📚 Education
-- Bachelor's Degree in Information System Engineering (Expected Graduation: [December, 2023])
+- Bachelor's Degree in Information System Engineering at Universidad Tecnológica de Panamá (Expected Graduation: [December, 2023])
 - Relevant coursework: List important courses related to system engineering and technology.
 
 ## 🌟 Achievements
@@ -43,7 +43,7 @@ I am a passionate and dedicated final year student pursuing a Bachelor's degree 
 - Certifications or courses completed in relevant fields.
 
 ## 🌐 Connect with Me
-- LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/gabriel-diaz-obando/)]
+- LinkedIn: [[Gabriel Díaz](https://www.linkedin.com/in/gabriel-diaz-obando/)]
 - Twitter: [Your Twitter Handle]
-- Portfolio: [[Your Portfolio Website URL](https://diaz-alx.github.io/)]
+- Portfolio: [diaz-alx]](https://diaz-alx.github.io/)]
 - Email: [Your Email Address]
