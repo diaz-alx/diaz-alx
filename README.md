@@ -1,12 +1,10 @@
-### Hi,my name is Gabriel Díaz 👋 
-
 <!--
 **diaz-alx/diaz-alx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
 
-# Hi there, I'm [Gabriel Díaz]! 👋
+# Hi there, I'm Gabriel Díaz! 👋
 
 ## About Me
 I am a passionate and dedicated final year student pursuing a Bachelor's degree in Informations System Engineering. With a strong foundation in both software and hardware aspects of systems, I am enthusiastic about creating innovative solutions to real-world problems.
@@ -45,5 +43,5 @@ I am a passionate and dedicated final year student pursuing a Bachelor's degree 
 ## 🌐 Connect with Me
 - LinkedIn: [[Gabriel Díaz](https://www.linkedin.com/in/gabriel-diaz-obando/)]
 - Twitter: [Your Twitter Handle]
-- Portfolio: [diaz-alx]](https://diaz-alx.github.io/)]
+- Portfolio: [[diaz-alx](https://diaz-alx.github.io/)]
 - Email: [Your Email Address]
